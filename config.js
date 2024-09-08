@@ -1,0 +1,10 @@
+export const MONGO_USER = "username"
+export const MONGO_PASSWORD = "password"
+export const CLUSTER_URL = "cluster0.jq9fz8f.mongodb.net"
+export const DATABASE = "mydatabase"
+export const PORT = 8080
+export const JWTKEY = "thisismyapp"
+export const EMAIL_ADDRESS = "myemailaddress@gmail.com"
+export const EMAIL_PASSWORD = "5VJycnBT"
+export const NODEMAILER_HOST = "smtp.dreamhost.com"
+export const NODEMAILER_PORT = 465
